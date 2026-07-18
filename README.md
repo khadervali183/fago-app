@@ -1,3 +1,4 @@
+index.html
 # FAGO — Farmers Agri Global Organization
 
 **Empowering Farmers Through AI, Innovation & Global Connectivity**
